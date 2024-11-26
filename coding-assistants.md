@@ -1,5 +1,5 @@
 ---
-title: "Coding Assistants, Copilots"
+title: "Coding Assistants, Code Gen, Copilots"
 ---
 
 # [Cody AI](https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai)  | By: Sourcegraph
@@ -12,7 +12,18 @@ Cody AI is an AI coding assistant that helps with understanding, writing, and fi
 Install code:
 `ext install sourcegraph.cody-ai`
 
-# [Cloud Code](https://marketplace.visualstudio.com/items?itemName=GoogleCloudTools.cloudcode)  | By: Google Cloud Tools
+# [DevChat](https://marketplace.visualstudio.com/items?itemName=merico.devchat)  | By: Merico
+
+![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/merico.devchat?label=VS%20Code%20Marketplace&logo=visual-studio-code&style=for-the-badge)
+![Installs](https://img.shields.io/visual-studio-marketplace/i/merico.devchat?label=Installs&style=for-the-badge)
+ 
+DevChat is an open-source platform that empowers developers to more effectively integrate AI into code generation and documentation [Source 1]. It aims to go beyond simple code auto-completion and limited operations on code snippets. 
+
+Install code:
+`ext install Merico.devchat`
+
+
+# [Gemini Code Assist + Google Cloud Code](https://marketplace.visualstudio.com/items?itemName=GoogleCloudTools.cloudcode)  | By: Google Cloud Tools
 
 ![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/GoogleCloudTools.cloudcode?label=VS%20Code%20Marketplace&logo=visual-studio-code&style=for-the-badge)
 ![Installs](https://img.shields.io/visual-studio-marketplace/i/GoogleCloudTools.cloudcode?label=Installs&style=for-the-badge)
@@ -20,7 +31,18 @@ Install code:
 Install code:
 `ext install GoogleCloudTools.cloudcode`
 
- # [MARScode](https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension)  | By: MarsCode
+
+
+# [LLM Autocompleter](https://marketplace.visualstudio.com/items?itemName=nayanraj210401.llm-autocompleter)  | By: Nayan Raj
+![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/nayanraj210401.llm-autocompleter?label=VS%20Code%20Marketplace&logo=visual-studio-code&style=for-the-badge)
+![Installs](https://img.shields.io/visual-studio-marketplace/i/nayanraj210401.llm-autocompleter?label=Installs&style=for-the-badge)
+ 
+LLM Autocompleter is a VSCode extension that provides LLM-powered development features for Visual Studio Code. It includes support for neovim, tokenizer configuration, and custom llm endpoints  <sup><a href="https://marketplace.visualstudio.com/items?itemName=HuggingFace.huggingface-vscode" target="_blank" rel="noreferrer" style="color: rgb(59, 130, 246); text-decoration: none; hover:text-decoration: underline;">1</a></sup>.
+
+Install code:
+`ext install nayanraj210401.llm-autocompleter`
+
+# [MARScode](https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension)  | By: MarsCode
 
 ![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/MarsCode.marscode-extension?label=VS%20Code%20Marketplace&logo=visual-studio-code&style=for-the-badge)
 ![Installs](https://img.shields.io/visual-studio-marketplace/i/MarsCode.marscode-extension?label=Installs&style=for-the-badge)
@@ -40,3 +62,23 @@ The llm-autocompleter extension provides auto-completion functionality for [Larg
 Install code:
 `ext install nayanraj210401.llm-autocompleter`
 
+# [OctopusGPT](https://marketplace.visualstudio.com/items?itemName=Shadee22.octopusgpt)  | By: Shadee22
+
+![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/Shadee22.octopusgpt?label=VS%20Code%20Marketplace&logo=visual-studio-code&style=for-the-badge)
+![Installs](https://img.shields.io/visual-studio-marketplace/i/Shadee22.octopusgpt?label=Installs&style=for-the-badge)
+ 
+OctopusGPT is an extension that provides AI code completion, debugging, and more with the power of GPT. 
+
+Install code:
+`ext install Shadee22.octopusgpt`
+
+# [Ollama-Autocoder](https://marketplace.visualstudio.com/items?itemName=10nates.ollama-autocoder)  | By: 10nates
+
+![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/10nates.ollama-autocoder?label=VS%20Code%20Marketplace&logo=visual-studio-code&style=for-the-badge)
+![Installs](https://img.shields.io/visual-studio-marketplace/i/10nates.ollama-autocoder?label=Installs&style=for-the-badge)
+ 
+A simple to use Ollama autocompletion engine with options exposed and streaming functionality
+ 
+Install code:
+`ext install 10nates.ollama-autocoder`
+ 

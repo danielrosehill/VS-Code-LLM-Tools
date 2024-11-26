@@ -2,17 +2,15 @@
 title: "Utilities"
 ---
 
-## Token calculators
+# [AI Branch Name Generator](https://marketplace.visualstudio.com/items?itemName=wgrisa.ai-branch-name-generator)  | By: wgrisa.ai
 
-# [LLM DevMate](https://marketplace.visualstudio.com/items?itemName=elancore.llm-dev-mate)  | By: elancore
+![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/wgrisa.ai-ai-branch-name-generator?label=VS%20Code%20Marketplace&logo=visual-studio-code&style=for-the-badge)
+![Installs](https://img.shields.io/visual-studio-marketplace/i/wgrisa.ai-ai-branch-name-generator?label=Installs&style=for-the-badge)
 
-![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/elancore.llm-dev-mate?label=VS%20Code%20Marketplace&logo=visual-studio-code&style=for-the-badge)
-![Installs](https://img.shields.io/visual-studio-marketplace/i/elancore.llm-dev-mate?label=Installs&style=for-the-badge)
- 
-The "LLM DevMate" extension provides commands for counting tokens in files and selections  <sup><a href="https://marketplace.visualstudio.com/items?itemName=elancore.llm-dev-mate" target="_blank" rel="noreferrer" style="color: rgb(59, 130, 246); text-decoration: none; hover:text-decoration: underline;">1</a></sup>. It seems to leverage AI capabilities for code optimization and analysis  <sup><a href="https://marketplace.visualstudio.com/items?itemName=TeamSankey.devmateai" target="_blank" rel="noreferrer" style="color: rgb(59, 130, 246); text-decoration: none; hover:text-decoration: underline;">2</a></sup>, although the provided sources do not fully detail its functionality. 
- 
+Create branch names using Chat GPT
+
 Install code:
-`ext install elancore.lll-dev-mate`
+`ext install wgrisa.ai-ai-branch-name-generator`
 
 # [Copy For LLM](https://marketplace.visualstudio.com/items?itemName=HyperCatcher.copy-for-llm)  | By: HyperCatcher
 
@@ -24,4 +22,31 @@ The Copy For LLM extension  <sup><a href="https://marketplace.visualstudio.com/i
  
 Install code:
 `ext install HyperCatcher.copy-for-llm`
+
+## Token calculators
+
+# [Live LLM Token Counter](https://marketplace.visualstudio.com/items?itemName=bedirt.gpt-token-counter-live)  | By: BedirtAI
+
+![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/bedirt.gpt-token-counter-live?label=VS%20Code%20Marketplace&logo=visual-studio-code&style=for-the-badge)
+![Installs](https://img.shields.io/visual-studio-marketplace/i/bedirt.gpt-token-counter-live?label=Installs&style=for-the-badge)
+ 
+The "gpt-token-counter-live" is a Visual Studio Code extension that displays the token count of selected text or the entire open document in the status bar. The token count is determined using these tokenizers for GPT and Claude.
+
+This tool is built to get a speedy token counting result right on VS Code while you are working on prompting files. I personally needed a lot while working on many LLM projects, so I decided to make one for myself. I hope this helps you too
+
+Install code:
+`ext install bedirt.gpt-token-counter-live`
+
+
+# [LLM DevMate](https://marketplace.visualstudio.com/items?itemName=elancore.llm-dev-mate)  | By: elancore
+
+![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/elancore.llm-dev-mate?label=VS%20Code%20Marketplace&logo=visual-studio-code&style=for-the-badge)
+![Installs](https://img.shields.io/visual-studio-marketplace/i/elancore.llm-dev-mate?label=Installs&style=for-the-badge)
+ 
+The "LLM DevMate" extension provides commands for counting tokens in files and selections  <sup><a href="https://marketplace.visualstudio.com/items?itemName=elancore.llm-dev-mate" target="_blank" rel="noreferrer" style="color: rgb(59, 130, 246); text-decoration: none; hover:text-decoration: underline;">1</a></sup>. It seems to leverage AI capabilities for code optimization and analysis  <sup><a href="https://marketplace.visualstudio.com/items?itemName=TeamSankey.devmateai" target="_blank" rel="noreferrer" style="color: rgb(59, 130, 246); text-decoration: none; hover:text-decoration: underline;">2</a></sup>, although the provided sources do not fully detail its functionality. 
+ 
+Install code:
+`ext install elancore.lll-dev-mate`
+
+
 
