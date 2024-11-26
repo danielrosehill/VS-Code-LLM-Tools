@@ -1,8 +1,44 @@
+---
+title: "Prompt Utilities"
+---
+
+# [Files to Prompt](https://marketplace.visualstudio.com/items?itemName=thomas-mckanna.files2Prompt)  | By: thomas-mckanna
+
+![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/thomas-mckanna.files2Prompt?label=VS%20Code%20Marketplace&logo=visual-studio-code&style=for-the-badge)
+![Installs](https://img.shields.io/visual-studio-marketplace/i/thomas-mckanna.files2Prompt?label=Installs&style=for-the-badge)
+ 
+Copy file contents for LLM prompts
+
+Install code:
+`ext install thomas-mckanna.files2Prompt`
+
+Please paste the link to another extension.
+# [GPT Prompt Integrator](https://marketplace.visualstudio.com/items?itemName=faaydemir.openaipoweredsnippet)  | By: Faaydemir
+
+![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/faaydemir/openaipoweredsnippet?label=VS%20Code%20Marketplace&logo=visual-studio-code&style=for-the-badge)
+![Installs](https://img.shields.io/visual-studio-marketplace/i/faaydemir.openaipoweredsnippet?label=Installs&style=for-the-badge)
+
+"The Visual Studio Code extension enables developers to integrate the ChatGPT prompt into VS Code"
+
+Install code:
+`ext install faaydemir.openaipoweredsnippet`
+
+# [Handy LLM](https://marketplace.visualstudio.com/items?itemName=atomiechen.handyllm)  | By: Atomie Chen
+
+![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/atomiechen.handyllm?label=VS%20Code%20Marketplace&logo=visual-studio-code&style=for-the-badge)
+![Installs](https://img.shields.io/visual-studio-marketplace/i/atomiechen.handyllm?label=Installs&style=for-the-badge)
+ 
+HandyLLM prompt language support
+
+Install code:
+`ext install atomiechen.handyllm`
+
+
 # [Nice Prompt](https://marketplace.visualstudio.com/items?itemName=Niceprompt.nice-prompt)  | By: Niceprompt
 
 ![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/Niceprompt.nice-prompt?label=VS%20Code%20Marketplace&logo=visual-studio-code&style=for-the-badge)
 ![Installs](https://img.shields.io/visual-studio-marketplace/i/Niceprompt.nice-prompt?label=Installs&style=for-the-badge)
- 
+
 Nice Prompt is an extension that organizes prompts, allows for customization with AI models and prompt engineering, and enables local folder connection and prompt execution. It uses an intuitive prompt playground within VS Code to streamline the prompt engineering process.
 
 Install code:
@@ -33,7 +69,7 @@ Install code:
 
 ![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/prompt-flow.prompt-flow?label=VS%20Code%20Marketplace&logo=visual-studio-code&style=for-the-badge)
 ![Installs](https://img.shields.io/visual-studio-marketplace/i/prompt-flow.prompt-flow?label=Installs&style=for-the-badge)
- 
+
 Prompt Flow is an extension that extends VS Code’s built-in Quick Picks to capture user prompts more elegantly.")
 
 Install code:
@@ -54,19 +90,9 @@ Install code:
 
 ![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/defaultkavy.prompt?label=VS%20Code%20Marketplace&logo=visual-studio-code&style=for-the-badge)
 ![Installs](https://img.shields.io/visual-studio-marketplace/i/defaultkavy.prompt?label=Installs&style=for-the-badge)
- 
+
 A dynamic-prompt markup language base on Automatic1111 stable-diffusion Web UI.
 
 Install code:
 `ext install defaultkavy.prompt`
 
-
-# [Prompt Runner (js8544)](https://github.com/js8544/vscode-prompt-runner)
-
-![Visual Studio Marketplace](https://img.shields.io/github/v/release/js8544/vscode-prompt-runner?label=GitHub&logo=github&style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/js8544/vscode-prompt-runner?label=Stars&style=for-the-badge)
-
-Prompt Runner allows users to run prompt files against various LLMs directly from VS Code, supporting tools like input variables, chaining, and AI agent workflows.
-
-Install code:
-`ext install js8544.vscode-prompt-runner`
