@@ -1,6 +1,16 @@
 ---
 title: "Coding Assistants, Code Gen, Copilots"
 ---
+# [Code BRT](https://marketplace.visualstudio.com/items?itemName=whats2000.code-brt)  | By: whats2000
+
+![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/whats2000.code-brt?label=VS%20Code%20Marketplace&logo=visual-studio-code&style=for-the-badge)
+![Installs](https://img.shields.io/visual-studio-marketplace/i/whats2000.code-brt?label=Installs&style=for-the-badge)
+ 
+CodeBRT is an AI-powered assistant designed to help users with code-related tasks, from writing and analyzing code to managing scheduling tasks. The project is free, open-source, and accessible for everyone.
+
+Install code:
+`ext install whats2000.code-brt`
+
 
 # [Cody AI](https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai)  | By: Sourcegraph
 
@@ -42,15 +52,6 @@ LLM Autocompleter is a VSCode extension that provides LLM-powered development fe
 Install code:
 `ext install nayanraj210401.llm-autocompleter`
 
-# [MARScode](https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension)  | By: MarsCode
-
-![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/MarsCode.marscode-extension?label=VS%20Code%20Marketplace&logo=visual-studio-code&style=for-the-badge)
-![Installs](https://img.shields.io/visual-studio-marketplace/i/MarsCode.marscode-extension?label=Installs&style=for-the-badge)
- 
-MARScode provides flexible arrangement of workspace items in various layouts and handles workspace context menus  <sup><a href="https://marketplace.visualstudio.com/items?itemName=akainth015.marscode" target="_blank" rel="noreferrer" style="color: rgb(59, 130, 246); text-decoration: none; hover:text-decoration: underline;">1</a></sup>. It is recommended to use this extension in conjunction with one for MIPS Assembly syntax highlighting and snippets  <sup><a href="https://marketplace.visualstudio.com/items?itemName=akainth015.marscode" target="_blank" rel="noreferrer" style="color: rgb(59, 130, 246); text-decoration: none; hover:text-decoration: underline;">1</a></sup>.
-
-Install code:
-`ext install MarsCode.marscode-extension`
 
 # [llm-autocompleter](https://marketplace.visualstudio.com/items?itemName=nayanraj210401.llm-autocompleter)  | By: nayanraj210401
 
@@ -61,6 +62,16 @@ The llm-autocompleter extension provides auto-completion functionality for [Larg
  
 Install code:
 `ext install nayanraj210401.llm-autocompleter`
+
+# [MARScode](https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension)  | By: MarsCode
+
+![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/MarsCode.marscode-extension?label=VS%20Code%20Marketplace&logo=visual-studio-code&style=for-the-badge)
+![Installs](https://img.shields.io/visual-studio-marketplace/i/MarsCode.marscode-extension?label=Installs&style=for-the-badge)
+ 
+MARScode provides flexible arrangement of workspace items in various layouts and handles workspace context menus  <sup><a href="https://marketplace.visualstudio.com/items?itemName=akainth015.marscode" target="_blank" rel="noreferrer" style="color: rgb(59, 130, 246); text-decoration: none; hover:text-decoration: underline;">1</a></sup>. It is recommended to use this extension in conjunction with one for MIPS Assembly syntax highlighting and snippets  <sup><a href="https://marketplace.visualstudio.com/items?itemName=akainth015.marscode" target="_blank" rel="noreferrer" style="color: rgb(59, 130, 246); text-decoration: none; hover:text-decoration: underline;">1</a></sup>.
+
+Install code:
+`ext install MarsCode.marscode-extension`
 
 # [OctopusGPT](https://marketplace.visualstudio.com/items?itemName=Shadee22.octopusgpt)  | By: Shadee22
 
@@ -82,3 +93,13 @@ A simple to use Ollama autocompletion engine with options exposed and streaming 
 Install code:
 `ext install 10nates.ollama-autocoder`
  
+# [WiseGPT](https://marketplace.visualstudio.com/items?itemName=dhiwisepvtltd.dhiwisecodesync)  | By: DhiWise Pvt Ltd.
+
+
+![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/dhiwisepvtltd.dhiwisecodesync?label=VS%20Code%20Marketplace&logo=visual-studio-code&style=for-the-badge)
+![Installs](https://img.shields.io/visual-studio-marketplace/i/dhiwisepvtltd.dhiwisecodesync?label=Installs&style=for-the-badge)
+ 
+WiseGPT is an AI coding assistant that automates complex programming tasks and boosts productivity by generating personalized, production-ready code that matches the user's coding style  <sup><a href="https://marketplace.visualstudio.com/items?itemName=dhiwisepvtltd.dhiwisecodesync" target="_blank" rel="noreferrer" style="color: rgb(59, 130, 246); text-decoration: none; hover:text-decoration: underline;">1</a></sup>.
+
+Install code:
+`ext install dhiwisepvtltd.dhiwisecodesync`

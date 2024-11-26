@@ -12,6 +12,27 @@ Create branch names using Chat GPT
 Install code:
 `ext install wgrisa.ai-ai-branch-name-generator`
 
+
+# [AppMap](https://marketplace.visualstudio.com/items?itemName=appland.appmap)  | By: AppMap
+
+![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/appland.appmap?label=VS%20Code%20Marketplace&logo=visual-studio-code&style=for-the-badge)
+![Installs](https://img.shields.io/visual-studio-marketplace/i/appland.appmap?label=Installs&style=for-the-badge)
+
+AppMap is a developer tools platform powered by runtime analysis and AI, composed of three components: AppMap data, runtime traces of your application runtime; AppMap diagrams, interactive visualizations of AppMap data  <sup><a href="https://marketplace.visualstudio.com/items?itemName=appland.appmap" target="_blank" rel="noreferrer" style="color: rgb(59, 130, 246); text-decoration: none; hover:text-decoration: underline;">1</a></sup>.
+
+Install code:
+`ext install appland.appmap`
+
+# [commitollama](https://marketplace.visualstudio.com/items?itemName=commitollama.commitollama)  | By: Commitollama
+
+![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/commitollama.commitollama?label=VS%20Code%20Marketplace&logo=visual-studio-code&style=for-the-badge)
+![Installs](https://img.shields.io/visual-studio-marketplace/i/commitollama.commitollama?label=Installs&style=for-the-badge)
+ 
+commitollama is an extension for automating commit messages using ollama models  <sup><a href="https://marketplace.visualstudio.com/items?itemName=commitollama.commitollama" target="_blank" rel="noreferrer" style="color: rgb(59, 130, 246); text-decoration: none; hover:text-decoration: underline;">1</a></sup>.
+
+Install code:
+`ext install commitollama.commitollama`
+
 # [Copy For LLM](https://marketplace.visualstudio.com/items?itemName=HyperCatcher.copy-for-llm)  | By: HyperCatcher
 
 ![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/HyperCatcher.copy-for-llm?label=VS%20Code%20Marketplace&logo=visual-studio-code&style=for-the-badge)

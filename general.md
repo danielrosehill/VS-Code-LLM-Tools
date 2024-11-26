@@ -2,7 +2,7 @@
 title: "General Tools"
 ---
 
-# [Windows AI Studio](https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio)  | By: Microsoft
+# [AI Toolkit](https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio)  | By: Microsoft
 
 ![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/ms-windows-ai-studio.windows-ai-studio?label=VS%20Code%20Marketplace&logo=visual-studio-code&style=for-the-badge)
 ![Visual Studio Registry](https://img.shields.io/visual-studio-marketplace/i/ms-windows-ai-studio.windows-ai-studio?label=Visual%20Studio%20Registry&style=for-the-badge)
