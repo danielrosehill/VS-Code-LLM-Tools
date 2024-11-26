@@ -1,16 +1,3 @@
----
-title: "All Extensions"
----
-
-# [llm-vscode (Hugging Face)](https://marketplace.visualstudio.com/items?itemName=HuggingFace.huggingface-vscode)
-
-![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/HuggingFace.huggingface-vscode?label=VS%20Code%20Marketplace&logo=visual-studio-code&style=for-the-badge)
-![Installs](https://img.shields.io/visual-studio-marketplace/i/HuggingFace.huggingface-vscode?label=Installs&style=for-the-badge)
- 
-llm-vscode is an extension for all things LLM. It uses llm-ls as its backend.
-
-Install code:
-`ext install HuggingFace.huggingface-vscode`
 
 # [Prompty (Microsoft)](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.prompty)
 
